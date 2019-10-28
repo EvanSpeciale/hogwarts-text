@@ -1,0 +1,25 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url("/images/HP.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+a {
+  color: #00B7FF;
+}
+
+header {
+  position: center;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 20%;
+  text-align: center;
+}
+
+h2 {
+  background: inherit;
+  background-clip: text;
+  color: inherit;
+  filter: invert(1);
+}
